@@ -10,5 +10,7 @@ public class App
     {
 
         System.out.println( "Hello World!fenglingbing option hhhh" );
+        int a = 1;
+
     }
 }
